@@ -5,16 +5,13 @@ the resources on how to contribute.
 
 * Activities:
 
-** Hack the Crisis
-https://www.hackcrisis.com/
-Hackathon organised by Polish goverment, starts <2020-03-17 Tue> lasts to
-<2020-03-22 Sun>, with financial rewards $$ !
-** CORD-19 challenge
-See kaggle dataset [[CORD19]]
+*Hack the Crisis* (https://www.hackcrisis.com/) Hackathon organised by Polish goverment, starts <2020-03-17 Tue> lasts to <2020-03-22 Sun>, with financial rewards $$ !
+
+*CORD-19 challenge* See kaggle dataset *CORD19*
 
 * Datasets:
 
-** CORD19
+*CORD19*
 COVID-19 Open Research Dataset Challenge
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 Dataset, and challeng. Over 29,000 articles concerning COVID-19 and SARS-COV-2.
@@ -34,7 +31,7 @@ Dataset, and challeng. Over 29,000 articles concerning COVID-19 and SARS-COV-2.
  - What has been published about information sharing and inter-sectoral collaboration?
  - COVID-19 Open Research Dataset Challenge (CORD-19)
 
-** Covid19 chest xray
+*Covid19 chest xray*
 https://github.com/ieee8023/covid-chestxray-dataset
 growing dataset of images of chest x-rays
 
