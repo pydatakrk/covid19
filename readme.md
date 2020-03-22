@@ -104,6 +104,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 -   <https://docs.google.com/spreadsheets/d/1VrCUWsoACAkjALHFl9B2CaVSTiMvp1sSn_b0zuud8Os/edit#gid=0> - created for hackcrisis
 -   <http://montreal.ai/covid19.pdf?fbclid=IwAR2NSee7KcHdQozKgCF1BvvFlTktVR4c7QdonL6w0AZtt2Kgo_HvTmLREyo> - coming from montreal.ai
+- https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/
 
 
 <a id="org63686dd"></a>
