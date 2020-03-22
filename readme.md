@@ -2,8 +2,10 @@
 # Covid19 - links, activities, datasets
 
 <a href="https://github.com/pydatakrk/covid19">
-  <img src="https://i.imgur.com/DL0qs2j.png" align="center" />
+  <img src="https://imgur.com/eI2VEgA.png" align="center" />
 </a>
+
+</br>
 
 - [Covid19 - links, activities, datasets](#org3a3342d)
 - [Activities](#orgd7dc727)
