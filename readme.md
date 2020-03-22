@@ -1,3 +1,10 @@
+
+# Covid19 - links, activities, datasets
+
+<a href="https://github.com/pydatakrk/covid19">
+  <img src="https://i.imgur.com/DL0qs2j.png" align="center" />
+</a>
+
 - [Covid19 - links, activities, datasets](#org3a3342d)
 - [Activities](#orgd7dc727)
 - [Datasets](#orge59ab6a)
@@ -9,14 +16,8 @@
 - [Miscellaneous](#org63686dd)
 - [How to contribute to this document](#org2fbcc87)
 
-<a href="https://github.com/pydatakrk/covid19">
-  <img src="https://i.imgur.com/DL0qs2j.png" align="center" />
-</a>
 
 <a id="org3a3342d"></a>
-
-# Covid19 - links, activities, datasets
-
 The global pandemy is forcing a lot of people to stay indoor. If you are one of those people, or you would like to help battle this somehow, here are some of the resources which can help you to contribute.
 
 
