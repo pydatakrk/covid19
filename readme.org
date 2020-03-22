@@ -3,7 +3,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of
 those people, or you would like to help battle this somehow, here are some of
 the resources which can help you to contribute.
 
-* Activities:
+* Activities
 
 - *Hack the Crisis* (https://www.hackcrisis.com/) Hackathon organised by Polish goverment, starts <2020-03-17 Tue> lasts to <2020-03-22 Sun>, with financial rewards $$ !
 
@@ -13,7 +13,6 @@ the resources which can help you to contribute.
   COVID-19 researchers. Fill in the form, you might be useful.
 
 * Datasets
-
 
 *CORD19*
 COVID-19 Open Research Dataset Challenge
@@ -30,15 +29,13 @@ growing dataset of images of chest x-rays
 *WHO's database of COVID-19 related publications*
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
-**
-
-
 * Statistics & Dashboards
+
 *Our world in data statistics*
 https://ourworldindata.org/coronavirus
 Some useful statistics, e.g.,, per capita tests by country, confirmed COVID-19 cases by country
 
-*wikipedia statistics*
+*Wikipedia statistics*
 https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data
 
 *Daily reports data API*
@@ -53,13 +50,13 @@ Access and analyze trusted COVID-19 (Coronavirus) global data
 *John hopkins repository of data on kaggle*
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
-*one of the earliest dashboards with a map*
+*One of the earliest dashboards with a map*
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-*counter of deaths and infections with per country stats*
+*Counter of deaths and infections with per country stats*
 https://www.worldometers.info/coronavirus/
 
-* Analyses and models
+* Analyses & models
 
 *Epidemic Calculator.*
 http://gabgoh.github.io/COVID/index.html
@@ -97,21 +94,18 @@ Natures article about coronavirus diagnostics
 - https://join.slack.com/t/montrealai/shared_invite/zt-2vk74zhg-EHP1LDotKLWS0aPuhr4yZQ -
   montreal.ai group, there are some iniciatives comming from them
 
-* Sources, and other aggregators like this
+* Sources & other aggregators like this
 
--  https://docs.google.com/spreadsheets/d/1VrCUWsoACAkjALHFl9B2CaVSTiMvp1sSn_b0zuud8Os/edit#gid=0 -
-  created for hackcrisis
-
+- https://docs.google.com/spreadsheets/d/1VrCUWsoACAkjALHFl9B2CaVSTiMvp1sSn_b0zuud8Os/edit#gid=0 -
+ created for hackcrisis
 - http://montreal.ai/covid19.pdf?fbclid=IwAR2NSee7KcHdQozKgCF1BvvFlTktVR4c7QdonL6w0AZtt2Kgo_HvTmLREyo -
   coming from montreal.ai
-
 
 * Miscellaneous
 
 *TraceTogether**
 https://www.tracetogether.gov.sg/
 Community-driven contact tracing, via smartphone app. Government of Singapore.
-
 
 * How to contribute to this document
 - Use github issues pull requests, comments, issues etc
