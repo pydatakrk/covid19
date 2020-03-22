@@ -31,7 +31,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 -   **CORD-19 challenge** See kaggle dataset **CORD19**
 
--   **Are you a researcher (of any kind)?** Crowd-fighting initiative to support COVID-19 researchers. Fill in the form, you might be useful.
+-   **Are you a researcher (of any kind)?** (https://crowdfightcovid19.org/) Crowd-fighting initiative to support COVID-19 researchers. Fill in the form, you might be useful. 
 
 
 <a id="orge59ab6a"></a>
