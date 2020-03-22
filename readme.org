@@ -1,3 +1,9 @@
+
+
+<a href="">
+  <img src="https://github.com/hlissner/doom-emacs/raw/screenshots/cacochan.png" align="center" />
+</a>
+
 * Covid19 - links, activities, datasets
 The global pandemy is forcing a lot of people to stay indoor. If you are one of
 those people, or you would like to help battle this somehow, here are some of

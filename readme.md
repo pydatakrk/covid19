@@ -1,23 +1,25 @@
-- [Covid19 - links, activities, datasets](#orgfa5aede)
-- [Activities](#org8473003)
-- [Datasets](#org7c2c3e1)
-- [Statistics & Dashboards](#orgff0d88b)
-- [Analyses & models](#orgdb7de5a)
-- [Knowledge](#org7b0c8c2)
-- [Chats](#org85fc02b)
-- [Sources & other aggregators like this](#org6779cba)
-- [Miscellaneous](#org5e3176a)
-- [How to contribute to this document](#org2e8287e)
+- [Covid19 - links, activities, datasets](#org3a3342d)
+- [Activities](#orgd7dc727)
+- [Datasets](#orge59ab6a)
+- [Statistics & Dashboards](#org998644e)
+- [Analyses & models](#orgdfbf4f2)
+- [Knowledge](#orge53ad19)
+- [Chats](#org4994988)
+- [Sources & other aggregators like this](#orgc241983)
+- [Miscellaneous](#org63686dd)
+- [How to contribute to this document](#org2fbcc87)
+
+<a href=&ldquo;&rdquo;> <img src=&ldquo;![img](https://github.com/hlissner/doom-emacs/raw/screenshots/cacochan.png)&rdquo; align=&ldquo;center&rdquo; /> </a>
 
 
-<a id="orgfa5aede"></a>
+<a id="org3a3342d"></a>
 
 # Covid19 - links, activities, datasets
 
 The global pandemy is forcing a lot of people to stay indoor. If you are one of those people, or you would like to help battle this somehow, here are some of the resources which can help you to contribute.
 
 
-<a id="org8473003"></a>
+<a id="orgd7dc727"></a>
 
 # Activities
 
@@ -28,7 +30,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 -   **Are you a researcher (of any kind)?** Crowd-fighting initiative to support COVID-19 researchers. Fill in the form, you might be useful.
 
 
-<a id="org7c2c3e1"></a>
+<a id="orge59ab6a"></a>
 
 # Datasets
 
@@ -42,7 +44,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 **WHO&rsquo;s database of COVID-19 related publications** <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov>
 
 
-<a id="orgff0d88b"></a>
+<a id="org998644e"></a>
 
 # Statistics & Dashboards
 
@@ -61,7 +63,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 **Counter of deaths and infections with per country stats** <https://www.worldometers.info/coronavirus/>
 
 
-<a id="orgdb7de5a"></a>
+<a id="orgdfbf4f2"></a>
 
 # Analyses & models
 
@@ -72,7 +74,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 **Computational predictions of protein structures associated with COVID-19** <https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19> Deepmind&rsquo;s short text about applying AlphaFold towards discovering structure of some of the proteins of the SARS-COV-2.
 
 
-<a id="org7b0c8c2"></a>
+<a id="orge53ad19"></a>
 
 # Knowledge
 
@@ -83,7 +85,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 **Nature: Coronavirus and the race to distribute reliable diagnostics** <https://www.nature.com/articles/d41587-020-00002-2> Natures article about coronavirus diagnostics
 
 
-<a id="org85fc02b"></a>
+<a id="org4994988"></a>
 
 # Chats
 
@@ -92,7 +94,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 -   <https://join.slack.com/t/montrealai/shared_invite/zt-2vk74zhg-EHP1LDotKLWS0aPuhr4yZQ> - montreal.ai group, there are some iniciatives comming from them
 
 
-<a id="org6779cba"></a>
+<a id="orgc241983"></a>
 
 # Sources & other aggregators like this
 
@@ -100,14 +102,14 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 -   <http://montreal.ai/covid19.pdf?fbclid=IwAR2NSee7KcHdQozKgCF1BvvFlTktVR4c7QdonL6w0AZtt2Kgo_HvTmLREyo> - coming from montreal.ai
 
 
-<a id="org5e3176a"></a>
+<a id="org63686dd"></a>
 
 # Miscellaneous
 
 **TraceTogether\*** <https://www.tracetogether.gov.sg/> Community-driven contact tracing, via smartphone app. Government of Singapore.
 
 
-<a id="org2e8287e"></a>
+<a id="org2fbcc87"></a>
 
 # How to contribute to this document
 
