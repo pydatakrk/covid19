@@ -9,8 +9,9 @@
 - [Miscellaneous](#org63686dd)
 - [How to contribute to this document](#org2fbcc87)
 
-<a href=&ldquo;&rdquo;> <img src=&ldquo;![img](https://github.com/hlissner/doom-emacs/raw/screenshots/cacochan.png)&rdquo; align=&ldquo;center&rdquo; /> </a>
-
+<a href="https://github.com/pydatakrk/covid19">
+  <img src="https://i.imgur.com/DL0qs2j.png" align="center" />
+</a>
 
 <a id="org3a3342d"></a>
 
