@@ -2,7 +2,7 @@
 # Covid19 - links, activities, datasets
 
 <a href="https://github.com/pydatakrk/covid19">
-  <img src="https://imgur.com/eI2VEgA.png" align="center" />
+  <img src="https://imgur.com/eI2VEgA.png" align="right" />
 </a>
 
 </br>
@@ -12,6 +12,7 @@
 - [Datasets](#orge59ab6a)
 - [Statistics & Dashboards](#org998644e)
 - [Analyses & models](#orgdfbf4f2)
+-  --> [Undergoing and possible to contribute](#orgdfbfef2)
 - [Knowledge](#orge53ad19)
 - [Chats](#org4994988)
 - [Sources & other aggregators like this](#orgc241983)
@@ -33,6 +34,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 -   **Are you a researcher (of any kind)?** (https://crowdfightcovid19.org/) Crowd-fighting initiative to support COVID-19 researchers. Fill in the form, you might be useful. 
 
+-   **Global Hackathon** https://www.hackcovid19.com/
 
 <a id="orge59ab6a"></a>
 
@@ -47,6 +49,18 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 **WHO&rsquo;s database of COVID-19 related publications** <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov>
 
+**Public COVID-19 data from Canada** <https://docs.google.com/spreadsheets/d/1D6okqtBS3S2NRC7GFVHzaZ67DuTw7LX49-fqSLwJyeo/edit#gid=942958991>
+detailed database of cases from canada, containing sex, age and location data.
+
+**LitCovid** https://www.ncbi.nlm.nih.gov/research/coronavirus/?utm_source=Nature%20Briefing&utm_campaign=2033dfb840-briefing-dy-20200318&utm_medium=email&utm_term=0_c9dfd39373-2033dfb840-44701201
+Not really a dataset, but the most comprehensive source for Coronavirus
+literature. Has a lot of COVID19 related publications updated daily.
+
+**Midas Network**
+#org63686ff
+<a id="org63686ff"></a>
+https://github.com/midas-network/COVID-19
+Platform to share computable information (in CSV format) relevant for modeling of the COVID-19 outbreak
 
 <a id="org998644e"></a>
 
@@ -66,6 +80,8 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 **Counter of deaths and infections with per country stats** <https://www.worldometers.info/coronavirus/>
 
+**COVID-19 dashboards** < https://covid19dashboards.com/> Yo, dawg, we heard you
+like dashboards...
 
 <a id="orgdfbf4f2"></a>
 
@@ -76,6 +92,14 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 **Pattern Classification For COVID-19 Growth Data** <https://towardsdatascience.com/classify-growth-patterns-for-covid-19-data-41af4c7adc55> Analysis of patterns of growths in multiple countries
 
 **Computational predictions of protein structures associated with COVID-19** <https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19> Deepmind&rsquo;s short text about applying AlphaFold towards discovering structure of some of the proteins of the SARS-COV-2.
+
+
+<a id="orgdfbfef2"></a>
+## Undergoing and possible to contribute
+
+**Mapping COVID-19 risk in the US** https://github.com/rbracco/covidcompare (See also: https://forums.fast.ai/t/help-with-algorithm-for-covid19-relative-risk/65328 )
+
+**Donate your extra compute power** https://foldingathome.org/ | https://boinc.bakerlab.org/
 
 
 <a id="orge53ad19"></a>
@@ -93,9 +117,11 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 # Chats
 
+
 -   <https://join-slack.pykonik.org/> &#x2013;> #pydata channel. This is where this document is being born
 -   <http://bit.ly/hackcrisiscom> - slack channel for the hackcrisis hackathon
 -   <https://join.slack.com/t/montrealai/shared_invite/zt-2vk74zhg-EHP1LDotKLWS0aPuhr4yZQ> - montreal.ai group, there are some iniciatives comming from them
+-   <https://forums.fast.ai/c/covid-19/> Fastai forums 
 
 
 <a id="orgc241983"></a>
@@ -104,7 +130,8 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 -   <https://docs.google.com/spreadsheets/d/1VrCUWsoACAkjALHFl9B2CaVSTiMvp1sSn_b0zuud8Os/edit#gid=0> - created for hackcrisis
 -   <http://montreal.ai/covid19.pdf?fbclid=IwAR2NSee7KcHdQozKgCF1BvvFlTktVR4c7QdonL6w0AZtt2Kgo_HvTmLREyo> - coming from montreal.ai
-- https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/
+-   <https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/>
+-   [See Midas network](#org63686ff)
 
 
 <a id="org63686dd"></a>
@@ -120,3 +147,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 
 -   Use github issues pull requests, comments, issues etc
 -   you can edit either readme.org, or readme.md
+
+
+
+​
