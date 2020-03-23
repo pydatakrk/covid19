@@ -1,6 +1,6 @@
 
 # Covid19 - links, activities, datasets
-
+(Last update: 2:30 CET 23.03.2020)
 <a href="https://github.com/pydatakrk/covid19">
   <img src="https://imgur.com/eI2VEgA.png" align="right" />
 </a>
