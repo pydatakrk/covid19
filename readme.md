@@ -36,6 +36,7 @@ The global pandemy is forcing a lot of people to stay indoor. If you are one of 
 -   **Are you a researcher (of any kind)?** (https://crowdfightcovid19.org/) Crowd-fighting initiative to support COVID-19 researchers. Fill in the form, you might be useful. 
 
 -   **Global Hackathon** https://www.hackcovid19.com/
+-   **EUHackathon** https://euvsvirus.org/
 
 <a id="orge59ab6a"></a>
 
